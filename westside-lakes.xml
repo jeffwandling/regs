@@ -1,0 +1,4520 @@
+<regulations>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "ABERDEEN LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "AKL POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "ALDRICH LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "ALEXANDER LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "AMERICAN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Combined daily limit of trout and kokanee is 5. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Combined daily limit of trout and kokanee is 5. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "ARMSTRONG LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "BAKER LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "BAKER LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "BALLINGER LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLALLAM"
+    name = "BEAVER LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "BEAVER LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "BENSON LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "BIG LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Year-round</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "BLACK LAKE">
+	<rule>
+	     <species>Crappie</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 9 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "BLACKSMITH POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "COWLITZ"
+    name = "BLUE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "BOSWORTH LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "BOWERS LAKE">
+	<rule>
+	     <species>Vance Creek Pond #1 </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "BRADLEY LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "BUCK LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "BUFFINGTON POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "CADY LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Internal combustion motors prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. Fly fishing only. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "CAIN LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "CALLIGAN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Unlawful to use lead weights or lead jigs measuring 1 1/2 inches or less along the longest axis. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "CAMPBELL LAKE">
+	<rule>
+	     <species>Grass carp</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. May also be taken by bow-and-arrow. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "CAPITOL LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "CARLISLE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date>Year-round</date>
+	     <detail>Launching boats with internal combustion motors prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "CARPENTER LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SAN JUAN"
+    name = "CASCADE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PACIFIC"
+    name = "CASES POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "CASS POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "COWLITZ"
+    name = "CASTLE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "CAVANAUGH LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "CHAIN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "CHAMBERS LAKE">
+	<rule>
+	     <species>within Military reservation: contact Joint-Base Lewis/McCord at 253-967-6277 for a land use permit </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. Internal combustion motors prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit.  Except: release cutthroat trout and wild rainbow trout. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "CLEAR LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "CLEAR LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "CLEAR LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Limited access available: contact National Volcanic Monument Headquarters 360-449-7800 or 360-274-2114, for specific information </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 18 inches. Daily limit 1. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "COTTAGE CREEK SOUTH POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "COTTAGE LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "COUNTY LINE PONDS">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "CRABAPPLE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "CRANBERRY LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "CRESCENT LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "CROCKER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. Except: CLOSED to trout fishing. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "CUSHMAN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "DAMON LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "DE COURSEY POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "DEER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "ISLAND"
+    name = "DEER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "DEVEREAUX LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "DIABLO LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLALLAM"
+    name = "DICKEY LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "DON LAKE">
+	<rule>
+	     <species>(also known as Clara Lake) </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "DRANO LAKE">
+	<rule>
+	     <species>downstream of markers on point of land downstream and across from Little White Salmon National Fish Hatchery and upstream of Hwy. 14 Bridge CRC (618)</species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date>Jan. 1-Apr. 30</date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Release all trout. </detail>
+	</rule>
+	<rule>
+	     <species>Bass, channel catfish, and walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon and hatchery steelhead</species>
+	     <date>Jan. 1-Mar. 15</date>
+	     <detail>Daily limit 2 hatchery steelhead. Release all salmon. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "DRANO LAKE">
+	<rule>
+	     <species>area west of a line projected from the easternmost pillar of Hwy. 14 Bridge to a posted marker on the north shore CRC (618)</species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date>Jan. 1-Apr. 30</date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Release all trout. </detail>
+	</rule>
+	<rule>
+	     <species>Bass, channel catfish, and walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon and hatchery steelhead</species>
+	     <date>Jan. 1-Mar. 15</date>
+	     <detail>Daily limit 2 hatchery steelhead. Release all salmon. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "DUCK LAKE">
+	<rule>
+	     <species>Crappie</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Grass carp</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. May also be taken by bow-and-arrow. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "ECHO LAKE">
+	<rule>
+	     <species>near Maltby </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLALLAM"
+    name = "ELK LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Sat. before Memorial Day-Oct. 15</date>
+	     <detail>Release all kokanee. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Sat. before Memorial Day-Oct. 15</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Sat. before Memorial Day-Oct. 15</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "ERDMAN LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "ERICKSON POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "ERICKSON RESERVOIR">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "ERIE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "FAILOR LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Sept. 15</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "FAWN LAKE - LOWER">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "FAWN LAKE - UPPER">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "FAZON LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date>First Fri. in October-Jan. 27</date>
+	     <detail>Fishing from any floating device prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Juvenile anglers only (under 15 years old). </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "FRANZ LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "GENEVA LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "GIBBS LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Internal combustion motors prohibited. Selective gear rules. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 18 inches. Daily limit 1. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Juvenile anglers only (under 15 years old). </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "GOAT RANCH POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "GORGE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "ISLAND"
+    name = "GOSS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT "
+    name = "GRANDY LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "GRANITE LAKES">
+	<rule>
+	     <species>near Marblemount </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Grayling</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "GRASS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "GRIZZLY LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "HANCOCK LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Unlawful to use lead weights or lead jigs measuring 1 1/2 inches or less along the longest axis. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "HAVEN LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "HEART LAKE">
+	<rule>
+	     <species>On Fidalgo Island, near Anacortes </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "HEINS LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "HICKS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "HORSESHOE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Internal combustion motors prohibited. Two-Pole not allowed. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Min. size 18 inches. Daily limit 1. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "HORSESHOE LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "HORSESHOE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "HOWARD LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "HOWELL LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "HOZOMEEN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Unlawful to use lead weights or lead jigs measuring 1 1/2 inches or less along the longest axis. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "INDIAN HEAVEN WILDERNESS LAKES">
+	<rule>
+	     <species>Indian Heaven Wilderness Lakes </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "ISABELLA LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "JACKSON LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "JENNINGS PARK POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "KEEFE LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "KI LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "KINGS LAKE BOG">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "KITSAP LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "KOENEMAN LAKE">
+	<rule>
+	     <species>(Fern Lake) </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Internal combustion motors prohibited. Two-Pole not allowed. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH "
+    name = "LAKE BEECHER">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "LAKE CHRISTINE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "LAKE JOY">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "LAKE KAPOWSIN">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "LANGLOIS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "LARSEN LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLALLAM"
+    name = "LINCOLN POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "LITTLE MENZEL LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "LOIS LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "ISLAND"
+    name = "LONE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Internal combustion motors prohibited. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 18 inches. Daily limit 1. </detail>
+	</rule>
+	<rule>
+	     <species>Grass carp</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. May also be taken by bow-and-arrow. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "LONG LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PACIFIC"
+    name = "LOOMIS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLARK"
+    name = "LOVE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "MAGGIE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "MARGARET LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "MARTHA LAKE">
+	<rule>
+	     <species>Warm Beach </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "MARTHA LAKE">
+	<rule>
+	     <species>Alderwood Manor </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "MASON LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>from Mayfield Dam to Onion Rock Bridge CRC (563)</species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Daily limit 10. Release wild rainbow trout and wild cutthroat trout. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Sept. 1-Dec. 31</date>
+	     <detail>Min. size 12 inches. Daily limit 6. Up to 2 adults may be retained. Release all salmon other than hatchery Chinook and hatchery coho. </detail>
+	</rule>
+	<rule>
+	     <species>from Mossyrock Dam downstream to the Tacoma Power safety signs at Onion Rock Bridge located just below the dam </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "MCMURRAY LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "MELBOURNE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "COWLITZ"
+    name = "MERRILL LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Internal combustion motors prohibited. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Fly fishing only. Catch-and-release. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Year-round</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "MILL POND">
+	<rule>
+	     <species>(Auburn) </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "MILLERS POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "MINERAL LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Sept. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "MISSION LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "MISSION LOWER POND">
+	<rule>
+	     <species>Trout</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>Min. size 8 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "MONTE CRISTO LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead (hatchery)</species>
+	     <date>June 1-Aug. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>June 1-Aug. 31</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "MUCK LAKES">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "MUD LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "MUNN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Internal combustion motors prohibited. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "NORTH LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "NORTHERN STATE HOSPITAL POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Juvenile anglers only (under 15 years old). </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "OHOP LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained.. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "OLD FISHING HOLE POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "OSBORNE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "PACKWOOD LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "PADDEN LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "PANTHER LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "PASS LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Fly fishing only. Motors prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit.  Except: release all trout. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "PHILLIPS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "PINE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "PIONEER PONDS">
+	<rule>
+	     <species>adjacent the Stillaguamish Valley Pioneer Museum </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "PRICES LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Internal combustion motors prohibited. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "QUIGG LAKE">
+	<rule>
+	     <species>Located at Friends Landing near Montesano CRC (370)</species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Sat. before Memorial Day-Apr. 15</date>
+	     <detail>Statewide min. size/daily limit. Except: Cutthroat trout and wild rainbow trout: min. size 14 inches. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Sat. before Memorial Day-Apr. 15</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Oct. 1-Jan. 31</date>
+	     <detail>Min. size 12 inches. Daily limit 6. Up to 4 adults may be retained. Release all salmon other than hatchery coho. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "RAPJOHN LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "RATTLESNAKE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "RAVENSDALE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "RIFFE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date>Year-round</date>
+	     <detail>It is permissible to fish up to the base of Swofford Pond Dam. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Year-round</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "RIFFE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "RILEY LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "ROBBINS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "ROESIGER LAKE">
+	<rule>
+	     <species>Crappie</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 9 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "ROSS LAKE">
+	<rule>
+	     <species>refer to Ross Lake Tributaries for more information </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Eastern brook trout</species>
+	     <date>July 1-Oct. 31</date>
+	     <detail>No min. size. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Other trout</species>
+	     <date>July 1-Oct. 31</date>
+	     <detail>Min. size 16 inches. Daily limit 1. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>July 1-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Cutthroat trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. Cutthroat count toward trout daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Other trout</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>July 1-Nov. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "SANDYSHORE LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date>Year-round</date>
+	     <detail>Access via Pope Resources private roads only. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>(Cowlitz Falls Reservoir) CRC (559)</species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Daily limit 10.  Except: release wild cutthroat trout and wild rainbow trout. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 12 inches. Daily limit 6. Up to 2 adults may be retained. Release all salmon other than hatchery Chinook and hatchery coho. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "SERENE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "SHADY LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Min. size 8 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "SHERWOOD CREEK MILL POND">
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "SHOE LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "SILENT LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "COWLITZ"
+    name = "SILVER LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Crappie</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 9 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Grass carp</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. No daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "SILVER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "SILVER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "SIXTEEN LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PACIFIC"
+    name = "SOULES POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PACIFIC"
+    name = "SOUTH BEND MILL POND">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "SPADA LAKE">
+	<rule>
+	     <species>Reservoir </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. Two-Pole not allowed. Internal combustion motors prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Max. size 12 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "SPANAWAY LAKE AND OUTLET">
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "SPIRIT LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "SPRAGUE POND">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "SQUALICUM LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Motors prohibited. Fly fishing only. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "STEEL LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "STEILACOOM LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "STEVES LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "STICKNEY LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "STITCH LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "STORM LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "SUMMIT LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "SUNSET LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "THURSTON"
+    name = "SUSAN LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLALLAM"
+    name = "SUTHERLAND LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Sat. before Memorial Day-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "SWIFT RESERVOIR">
+	<rule>
+	     <species>from dam to markers approx. 3/8 mile below Eagle Cliff Bridge </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Sat. before Memorial Day-Nov. 30</date>
+	     <detail>Min. size 8 inches. Daily limit 10. Release wild trout. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead</species>
+	     <date>Sat. before Memorial Day-Nov. 30</date>
+	     <detail>Release all steelhead. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Sat. before Memorial Day-Nov. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Sat. before Memorial Day-Nov. 30</date>
+	     <detail>Min. size 8 inches. Max. size 15 inches. Salmon count toward trout daily limit. No catch record card required. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAMANIA"
+    name = "SWIFT RESERVOIR ">
+	<rule>
+	     <species>from markers approx. 3/8 mile below Eagle Cliff Bridge to bridge </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective Gear Rules, except barbed hooks are allowed. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Sat. before Memorial Day-July 15</date>
+	     <detail>Min. size 8 inches. Daily limit 10. Release wild trout. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead</species>
+	     <date>Sat. before Memorial Day-July 15</date>
+	     <detail>Release all steelhead. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Sat. before Memorial Day-July 15</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Sat. before Memorial Day-July 15</date>
+	     <detail>Min. size 8 inches. Max. size 15 inches. Salmon count toward trout daily limit. No catch record card required. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit.  Except: release cutthroat trout and wild rainbow trout. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "TAHUYA LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "TANWAX LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Crappie</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 9 inches. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "TARBOO LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Internal combustion motors prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "JEFFERSON"
+    name = "TEAL LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Internal combustion motors prohibited. Selective gear rules. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 18 inches. Daily limit 1. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "TENAS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "TENNANT LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date>First Fri. in October-Jan. 27</date>
+	     <detail>Fishing from any floating device prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date>First Sat. after Labor Day-Fri. Following First Sat. after Labor Day</date>
+	     <detail>Fishing from any floating device except a dock prohibited. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. Except: No min. size/daily limit for cutthroat trout. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLALLAM"
+    name = "THUNDER LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "WHATCOM"
+    name = "TOAD LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "U LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "CLARK"
+    name = "VANCOUVER LAKE">
+	<rule>
+	     <species>and all other waters west of Burlington-Northern RR from Columbia River drawbridge near Vancouver downstream to Lewis River </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SKAGIT"
+    name = "VOGLER LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Fly fishing only. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Catch-and-release. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "WAGNER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "WALKER LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "WALSH LAKE">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "WALUPT LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "PIERCE"
+    name = "WAPATO LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. Open for juvenile anglers, senior anglers and anglers with a disability who possess a designated harvester companion card only. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Mar. 1-June 30</date>
+	     <detail>Min. size 12 inches. Daily limit 5. Release rainbow trout over 20 inches. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead (hatchery)</species>
+	     <date>July 1-Nov. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>waters east of the Fremont Ave Bridge to the Montlake Bridge   </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Mar. 1-June 30</date>
+	     <detail>Min. size 12 inches. Daily limit 5. Release rainbow trout over 20 inches. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead (hatchery)</species>
+	     <date>July 1-Nov. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>north of Hwy. 520 Bridge and east of Montlake Bridge, including that portion of Sammamish River from 68th Ave. NE Bridge downstream CRC (762)</species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Mar. 1-June 30</date>
+	     <detail>Min. size 12 inches. Daily limit 5. Release rainbow trout over 20 inches. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead (hatchery)</species>
+	     <date>July 1-Nov. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>South of Hwy. 520 Bridge including Mercer Slough </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Chumming permitted. Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Kokanee</species>
+	     <date>Year-round</date>
+	     <detail>Min. size 8 inches. Max. size 18 inches. Daily limit 5. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>Mar. 1-June 30</date>
+	     <detail>Min. size 12 inches. Daily limit 5. Release rainbow trout over 20 inches. </detail>
+	</rule>
+	<rule>
+	     <species>Steelhead (hatchery)</species>
+	     <date>July 1-Nov. 30</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>above Electric Ave. Bridge </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>Trout</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit.  Except: release cutthroat. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>that portion of Lake Whatcom between Electric Ave. Bridge and outlet dam </species>
+	     <date></date>
+	     <detail></detail>
+	</rule>
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>CLOSED WATERS. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KITSAP"
+    name = "WILDCAT LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "KING"
+    name = "WILDERNESS LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "LEWIS"
+    name = "WILLAME LAKE">
+	<rule>
+	     <species>All species</species>
+	     <date></date>
+	     <detail>Two-Pole not allowed. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "WOOD LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "SNOHOMISH"
+    name = "WOODLAND FARM RESERVOIR">
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>Year-round</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "MASON"
+    name = "WOOTEN LAKE">
+	<rule>
+	     <species>All game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+</body>
+<waterbody
+    county = "GRAYS HARBOR"
+    name = "WYNOOCHEE RESERVOIR">
+	<rule>
+	     <species>Trout</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Min. size 14 inches. Daily limit 2. </detail>
+	</rule>
+	<rule>
+	     <species>Smallmouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 15. Only 1 over 14 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Largemouth bass</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. Max. size 12 inches, except 1 over 17 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Channel catfish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 10. </detail>
+	</rule>
+	<rule>
+	     <species>Walleye</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>No min. size. Daily limit 16. Only 1 over 22 inches may be retained. </detail>
+	</rule>
+	<rule>
+	     <species>Other game fish</species>
+	     <date>4th Sat. in Apr.-Oct. 31</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>All game fish</species>
+	     <date>Year-round</date>
+	     <detail>Statewide min. size/daily limit. </detail>
+	</rule>
+	<rule>
+	     <species>Salmon</species>
+	     <date>Year-round</date>
+	     <detail>Landlocked salmon rules. </detail>
+	</rule>
+</waterbody>
+</regulations>
